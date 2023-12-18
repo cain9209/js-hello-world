@@ -21,7 +21,6 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    9. Other. You choose!
 */
 console.log(3,4,5,6,7);
-console.log("Hello, World again!!!") 
-console.log("Coding is awesome!!!")
-console.log("Hello, how are you"), ("The synmphony this time of year is awesome")
-
+console.log("Hello, World again!!!"); 
+console.log("Coding is awesome!!!");
+console.log("Hello, how are you today"); console.log("This is so much fun!!!")
