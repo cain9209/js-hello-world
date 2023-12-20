@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello, World?");
+console.log("Hello");    console.log('Hello, how are you today?')
 
 /*  
 Next, PLAY! 
@@ -24,3 +24,5 @@ console.log(3,4,5,6,7);
 console.log("Hello, World again!!!"); 
 console.log("Coding is awesome!!!");
 console.log("Hello, how are you today"); console.log("This is so much fun!!!")
+console.log(4+5)
+console.log('Hello!!!, "Zack stated loudley"');
